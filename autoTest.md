@@ -33,7 +33,9 @@
 ## 一个工具的例子
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一般来说，我不太喜欢介绍工具，因为具体的工具总有过时的一天，所以我希望我的文章是在传“道”而不是在传“术”。但通过一个工具，能让人更好地了解我上面说的内容，因此我还是介绍一个自动化功能测试的工具吧。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于我是从事Web开发的，因此会特别留意有关Web的测试工具。这次要介绍的是selenium（[http://seleniumhq.org/](http://seleniumhq.org/)）。该工具支持市面上各种主流浏览器（IE、Chrome、Firefox等等），另外也支持Android的测试。因此这个工具可以顺便测了浏览器的兼容性问题了。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下图是selenium的结构图：
 
 ![selenium](https://phospher.github.io/20130704193135968.jpeg)
